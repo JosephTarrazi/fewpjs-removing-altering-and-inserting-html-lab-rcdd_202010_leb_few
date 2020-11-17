@@ -1,3 +1,3 @@
 main.remove();
-let a=createElement('h1');
-a.setAttribute('id', 'victory');
+let newHeader=createElement('h1');
+newHeader.setAttribute('id', 'victory');
