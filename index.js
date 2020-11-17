@@ -1,1 +1,1 @@
-main.removeChild(main.querySelector('main#main'));
+main.remove();
