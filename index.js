@@ -1,5 +1,5 @@
 main.remove();
-let newHeader=createElement('h1#victory');
+let newHeader=document.createElement('h1');
 newHeader.id='victory';
 newHeader.innerHTML='Jo is the champion';
 document.querySelector("body").appendChild("newHeader");
